@@ -4,7 +4,7 @@ Marketing Mix Modeling (MMM) Engine via Multi-Dimensional Optimization.
 
 # Multi-Dimensional Marketing Mix Modeling (MMM) Engine
 
-An R&D эконометрика framework written in Python 3 that automates the optimization of multi-channel advertising decay effects (**Adstock constants**) using global non-linear optimization algorithms. 
+An R&D econometrics framework written in Python 3 that automates the optimization of multi-channel advertising decay effects (**Adstock constants**) using global non-linear optimization algorithms. 
 
 ## 🧠 Technical Highlights
 
